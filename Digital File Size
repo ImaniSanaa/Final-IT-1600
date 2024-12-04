@@ -2,17 +2,17 @@
 
 Alt-H2 Audio 
 Audio Files can be things like podcasts, songs, sound effects, etc. 
-1. MPEG 4(MP4, M4A): Due to its lack of disk space usage it is popular with iTunes. Audio quality is maintained, but it will not work with every computer system. Can also be used to record audio notes.
+1. MPEG 4(MP4, M4A): Due to its lack of disk space usage it is popular with *iTunes*. Audio quality is maintained, but it will not work with every computer system. Can also be used to record audio notes.
 2. MP3 (MPEG layer audio 3): This is the most popular audio file and is used across all media players(computers, mobile devices, etc.) MP3 uses lossy compression, therefore some file data is lost. Despite data being lost, the file maintains good sound quality.
 3. WAV (Waveform audio): Used for professional setting such as recording studios and movies. This is an uncompressed audio formatting that has a large size. It is raw Audio and no sounds are lost. 
 
 Alt-H2 Video  
 Video Files are larger and compressed to save space.
 1. .MP4/MPEG-4: This is the most common and universal video file formats. Videos with this file type can be used on most media players, computers, mobile devices, and internet browsers.
-2. .MOV (QuickTime Movie): This file format is exclusive to Apple and is used by the Apple QuickTime app. This is a large file used for movies and professional videos.
+2. .MOV (QuickTime Movie): This file format is exclusive to *Apple* and is used by the *Apple QuickTime* app. This is a large file used for movies and professional videos.
 3. .AVI(Audio Video Interleave): This format is used for older devices and systems. It is a large file and can take up too much space on certain devices.
 4. .WMV (Windows Media Video): A video slideshow format that isn't widely used.
-5. .FLV (Flash Video Format): This delivers videos on the internet via Adobe Flash Player. This less popular because HTML-based videos are more common.
+5. .FLV (Flash Video Format): This delivers videos on the internet via *Adobe Flash Player*. This less popular because HTML-based videos are more common.
 
 Alt-H2 Motion Picture 
 Motion Picture Files are higher resolution with synced audio. The bit-depth, resolution, frame rate, and color encoding is better the a normal video file. This could be used for movies and tv.
@@ -29,8 +29,8 @@ The most common image file formats are JPEG, PNG, GIF, and SVG. These vary in si
 Alt-H2 Document
 Document files are primarily text files the may contain images or videos. These are used in professional and educational settings. They are easily sharable, edited, designed, and are the most used file type.
 1. .Txt (Standard Text File): These files only have plain text and is the most basic type of  document. This primarily used for note taking, instructions, and it used in every program.
-2. .Docx (Microsoft Word): This is the default format for Microsoft Word files. Used by most people and businesses to send, share, receive, and edit documents from email services.
-3. .Xls/.Xlsx (Microsoft Excel Worksheet): These are Microsoft Excel worksheets used for graphing data, spreadsheets, databases, and financial analysis. Contains numbers, tables, and graphs primarily.
-4. .PDF (Adobe's Portable Document Format): Developed by Adobe that preserves the formatting of a document. Helpful for paperwork. Commonly used in educational settings.
+2. .Docx (*Microsoft Word*): This is the default format for *Microsoft Word* files. Used by most people and businesses to send, share, receive, and edit documents from email services.
+3. .Xls/.Xlsx (*Microsoft Excel* Worksheet): These are *Microsoft Excel* worksheets used for graphing data, spreadsheets, databases, and financial analysis. Contains numbers, tables, and graphs primarily.
+4. .PDF (*Adobe*'s Portable Document Format): Developed by *Adobe* that preserves the formatting of a document. Helpful for paperwork. Commonly used in educational settings.
 5. .HTML/.HTM (Hypertext Markup Language): The most common file type for internet files. Used by web developers, encoders, and other website professionals.
 
