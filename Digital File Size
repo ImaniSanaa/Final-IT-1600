@@ -1,12 +1,12 @@
-There are many digital filing types that you can use to store media in your computer. The main types of media are AUDIO files, VIDEO Files, MOTION PICTURE (cinema) Files, Image Files, and Document Files. There are many factors that change the way you store files such as file size, resolution, duration(timed files), and audio.
+## There are many digital filing types that you can use to store media in your computer. The main types of media are AUDIO files, VIDEO Files, MOTION PICTURE (cinema) Files, Image Files, and Document Files. There are many factors that change the way you store files such as file size, resolution, duration(timed files), and audio.
 
-Audio 
+Alt-H2 Audio 
 Audio Files can be things like podcasts, songs, sound effects, etc. 
 1. MPEG 4(MP4, M4A): Due to its lack of disk space usage it is popular with iTunes. Audio quality is maintained, but it will not work with every computer system. Can also be used to record audio notes.
 2. MP3 (MPEG layer audio 3): This is the most popular audio file and is used across all media players(computers, mobile devices, etc.) MP3 uses lossy compression, therefore some file data is lost. Despite data being lost, the file maintains good sound quality.
 3. WAV (Waveform audio): Used for professional setting such as recording studios and movies. This is an uncompressed audio formatting that has a large size. It is raw Audio and no sounds are lost. 
 
-Video  
+Alt-H2 Video  
 Video Files are larger and compressed to save space.
 1. .MP4/MPEG-4: This is the most common and universal video file formats. Videos with this file type can be used on most media players, computers, mobile devices, and internet browsers.
 2. .MOV (QuickTime Movie): This file format is exclusive to Apple and is used by the Apple QuickTime app. This is a large file used for movies and professional videos.
@@ -14,11 +14,11 @@ Video Files are larger and compressed to save space.
 4. .WMV (Windows Media Video): A video slideshow format that isn't widely used.
 5. .FLV (Flash Video Format): This delivers videos on the internet via Adobe Flash Player. This less popular because HTML-based videos are more common.
 
-Motion Picture 
+Alt-H2 Motion Picture 
 Motion Picture Files are higher resolution with synced audio. The bit-depth, resolution, frame rate, and color encoding is better the a normal video file. This could be used for movies and tv.
 1. DPX(Digital Moving Picture Exchange): This is a pixel based image format where each frame is its own data file that is linked by metadata to play in the correct sequence. [Metadata is structured data that provides information about other data.] 
 2. DCP (Digital Cinema Package): A collection of digital files used to store and convey digital cinema audio, image, and data streams. DCPs typically have JPEG2000 and Lineat Pulse Code Modulation (PCM)
-Image 
+Alt-H2 Image 
 The most common image file formats are JPEG, PNG, GIF, and SVG. These vary in size, quality, compression, scalability, and use.
 1. .JPEG (Joint Photographic Experts Group): The most common image file type. They are compressed, produced by digital photography, take up less disk space, and are high quality.
 2. .PNG (Portable Network Graphics): Is a lossless compression format meaning that the image does not lose it's original quality.  It's commonly used in photography. Unlike .JPEG, it maintains quality and size despite being saved or changed.
@@ -26,7 +26,7 @@ The most common image file formats are JPEG, PNG, GIF, and SVG. These vary in si
 4. .SVG ( Scalable Vector Graphics): 2 dimensional images that use mathematic expressions. They can be scaled to any size without losing its quality. Primarily used for web and icon design and maintains a clear resolution.
 5. .EPS (Encapsulated PostScript): Vector File Format this is created by Adobe. It may contain text and graphics. Usually intended for print media, but it can be used on the web.
 
-Document
+Alt-H2 Document
 Document files are primarily text files the may contain images or videos. These are used in professional and educational settings. They are easily sharable, edited, designed, and are the most used file type.
 1. .Txt (Standard Text File): These files only have plain text and is the most basic type of  document. This primarily used for note taking, instructions, and it used in every program.
 2. .Docx (Microsoft Word): This is the default format for Microsoft Word files. Used by most people and businesses to send, share, receive, and edit documents from email services.
